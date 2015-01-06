@@ -1,0 +1,9 @@
+C:\Users\Kupo\Documents\Programs\PigLatinTranslator\PigLatinTranslator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Kupo\Documents\Programs\PigLatinTranslator\PigLatinTranslator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Kupo\Documents\Programs\PigLatinTranslator\PigLatinTranslator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kupo\Documents\Programs\PigLatinTranslator\PigLatinTranslator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Kupo\Documents\Programs\PigLatinTranslator\PigLatinTranslator\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Kupo\Documents\Programs\PigLatinTranslator\PigLatinTranslator\WindowsFormsApplication1\obj\Debug\PigLatinTranslator.csprojResolveAssemblyReference.cache
+C:\Users\Kupo\Documents\Programs\PigLatinTranslator\PigLatinTranslator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.frmPigLatinTranslator.resources
+C:\Users\Kupo\Documents\Programs\PigLatinTranslator\PigLatinTranslator\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Kupo\Documents\Programs\PigLatinTranslator\PigLatinTranslator\WindowsFormsApplication1\obj\Debug\PigLatinTranslator.csproj.GenerateResource.Cache
